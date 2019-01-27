@@ -1,1 +1,5 @@
-
+To execute this project 
+* open terminal
+* go to project directory 
+  eg: cd Desktop/attendance
+* python3 takeattendance.py
