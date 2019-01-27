@@ -1,1 +1,7 @@
-
+To execute this project succesfully on your device should be installed following:
+* setuptools
+* xlrd
+* xlwt
+* xlutils
+* PyQt4
+If it returns any type of error you should install those also.
